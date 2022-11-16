@@ -57,4 +57,5 @@ class User < ApplicationRecord
         end
         token
     end
+    ##
 end
